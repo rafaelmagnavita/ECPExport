@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECPExport", "ECPExport\ECPExport.csproj", "{55CDFBAC-6284-413D-9FF0-7C70074ECE1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55CDFBAC-6284-413D-9FF0-7C70074ECE1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55CDFBAC-6284-413D-9FF0-7C70074ECE1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55CDFBAC-6284-413D-9FF0-7C70074ECE1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55CDFBAC-6284-413D-9FF0-7C70074ECE1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9837259-B62B-4AB6-AF52-7F1ECE65DEA6}
+	EndGlobalSection
+EndGlobal
